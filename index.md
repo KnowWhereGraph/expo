@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## KnowWhereGraph Expo 2022
 
-You can use the [editor on GitHub](https://github.com/KnowWhereGraph/nsf-expo-2022.knowwheregraph.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+KnowWhereGraph is an NSF funded project that's part of the Track-A cohort in the [Convergence Accelerator](https://beta.nsf.gov/funding/initiatives/convergence-accelerator) program. The team will be presenting at the 2022 NSF Expo; this webpage provides the session times and all of the resources mentioned during the presentations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sessions
 
-### Markdown
+There will be five sessions on topics that center around KnowWhereGraph. The times listed are in Eastern time zone.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<KWG schedule images here>
 
-```markdown
-Syntax highlighted code block
+### Links
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- [Project Website](http://knowwheregraph.org/)
+- [Ontology & Graph Schema](https://stko-kwg.geog.ucsb.edu/lod/ontology)
+- [Knowledge Explorer](https://stko-kwg.geog.ucsb.edu/)
+- [ArcGIS Geoenrichment Download](https://drive.google.com/drive/folders/1WwBmVRVLIfdDKRg3C2nwtlCzbRVY-smM?usp=sharing)
+- [ArcGIS/QGIS Geoenrichment User Docs](https://docs.google.com/document/d/1vlvjD0ukkcXmgoiR1DG85rMxFCuX7wJLMLaUAI3Lw6U/edit?usp=sharing)
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KnowWhereGraph/nsf-expo-2022.knowwheregraph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For feedback or general inquires, visit the [contact](https://knowwheregraph.org/contact/) page.
