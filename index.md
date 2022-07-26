@@ -6,10 +6,9 @@ KnowWhereGraph is an NSF funded project that's part of the Track-A cohort in the
 
 There will be five sessions on topics that center around KnowWhereGraph. The times listed are in Eastern time zone.
 
-<KWG schedule images here>
+-KWG schedule images here-
 
 ### Links
-
 
 - [Project Website](http://knowwheregraph.org/)
 - [Ontology & Graph Schema](https://stko-kwg.geog.ucsb.edu/lod/ontology)
